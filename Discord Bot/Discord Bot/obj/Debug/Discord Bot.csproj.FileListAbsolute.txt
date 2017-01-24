@@ -1,0 +1,33 @@
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord Bot.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\Discord Bot.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord Bot.exe
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord Bot.pdb
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord.Net.Commands.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Discord.Net.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\RestSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\WebSocket4Net.dll
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.xml
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\RestSharp.xml
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\Discord Bot.exe
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\obj\Debug\Discord Bot.pdb
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\dead inside meme.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\OHYA.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\radiohead meme.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\unnamed.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\woke ass nigg in his timbs.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\2thumbs.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\angery.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\chuck.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\hous.gif
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\fukdoge.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\mrrick.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\nikita.png
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\WAT4.jpg
+\\mac\home\documents\visual studio 2015\Projects\Discord Bot\Discord Bot\bin\Debug\mems\ffhang.jpg
